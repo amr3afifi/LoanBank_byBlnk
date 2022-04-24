@@ -1,0 +1,9 @@
+Frontend:
+1.cd ./frontend
+2. npm run serve
+
+Backend:
+1.cd ./backend
+2. python ./manage.py makemigrations
+3. python ./manage.py migrate
+4. python ./manage.py runserver
